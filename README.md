@@ -8,3 +8,4 @@ Software para controle de estoque com inserção e remoção de dados, utilizand
 Projeto desenvolvido utilizando NetBeans-IDE, XAMPP e MySQL WorkBench 8.0.
 
 ![alt text](https://github.com/Holgado/Sistema-de-estoque-em-Java/blob/main/view.png)
+![alt text](https://github.com/Holgado/Sistema-de-estoque-em-Java/blob/main/view2.png)
